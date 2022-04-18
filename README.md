@@ -5,7 +5,7 @@
 </div>
 
 
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning React Native, Node.js
 - 💬 Feel free to ask me about anything!
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vicky-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victoria-pak/)
 
